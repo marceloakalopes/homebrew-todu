@@ -2,7 +2,7 @@ class Todu < Formula
     desc "A simple to-do CLI app"
     homepage "https://github.com/marceloakalopes/todu"
     url "https://github.com/marceloakalopes/todu/releases/download/v0.1.0/todu-0.1.0.tar.gz"
-    sha256 "7b7f94cdf4cee03195c1067e98d78b7d39790446350065bbda2ae8c809381032"
+    sha256 "8618d539fa447e00459ae721801f20f9b513c5e07cf3255abd24f949ac208d40"
     version "0.1.0"
   
     def install
